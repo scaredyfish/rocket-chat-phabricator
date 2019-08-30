@@ -1,0 +1,6 @@
+{
+    "phabricator_apikey": "Your Phabricator Conduit API token",
+    "phabricator_apikey_description": "Insert your Phabricator Conduit API token (from https://{server name}/settings/user/{user name}/page/apitokens/)",
+    "phabricator_serverurl": "Your Phabricator server URL",
+    "phabricator_serverurl_description": "Insert your Phabricator server URL (including protocol)"
+}

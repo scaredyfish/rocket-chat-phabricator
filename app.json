@@ -1,0 +1,15 @@
+{
+    "id": "8cae250f-acbd-42fe-a19e-8a9823b7627a",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Andrew Charlton (Scaredyfish)",
+        "homepage": "http://scaredy.fish",
+        "support": "http://scaredy.fish"
+    },
+    "name": "Phabricator Integration",
+    "nameSlug": "phabricator-integration",
+    "classFile": "PhabricatorIntegrationApp.ts",
+    "description": "Phabricator Integration"
+}
