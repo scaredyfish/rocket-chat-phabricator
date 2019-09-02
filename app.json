@@ -4,9 +4,9 @@
     "requiredApiVersion": "^1.4.0",
     "iconFile": "icon.png",
     "author": {
-        "name": "Andrew Charlton (Scaredyfish)",
-        "homepage": "http://scaredy.fish",
-        "support": "http://scaredy.fish"
+        "name": "Andrew Charlton (Scaredyfish) & Poulpator",
+        "homepage": "https://github.com/scaredyfish/rocket-chat-phabricator",
+        "support": "https://github.com/scaredyfish/rocket-chat-phabricator/issues"
     },
     "name": "Phabricator Integration",
     "nameSlug": "phabricator-integration",
